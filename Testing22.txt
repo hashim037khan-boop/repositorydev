@@ -1,2 +1,6 @@
 Bakwass check krna hai1
 gui ka code chnage kr raha hu 
+
+
+Ab cli se git pe push kruga
+
